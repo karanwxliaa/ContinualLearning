@@ -1,0 +1,5 @@
+eval_exp,training_exp,eval_accuracy,eval_loss,forgetting
+0,0,1.0000,0.0000,0
+1,0,0.0000,14.9018,0
+0,1,0.9098,2.3069,0.0902
+1,1,0.9703,0.0647,0
