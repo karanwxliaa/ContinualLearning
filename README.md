@@ -1,5 +1,3 @@
-# Continual Learning
-
 # Continual Learning Research Repository
 
 This repository is dedicated to researching Continual Learning scenarios and strategies using the CicIDS2017 dataset and the Avalanche Continual Learning library.
