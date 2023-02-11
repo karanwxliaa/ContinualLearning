@@ -1,5 +1,3 @@
-eval_exp,training_exp,eval_accuracy,eval_loss,forgetting
-0,0,0.9999,0.0013,0
-1,0,0.0043,57.2356,0
-0,1,0.9757,0.1238,0.0242
-1,1,0.9762,0.0450,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:5122e0c689ee8d9239083610f75bbeb5bdab5af6ed9ac7c1904e47b856b10b65
+size 143

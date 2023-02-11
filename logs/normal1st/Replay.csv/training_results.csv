@@ -1,3 +1,3 @@
-training_exp,epoch,training_accuracy,val_accuracy,training_loss,val_loss
-0,0,0.9990,0,0.0052,0
-1,0,0.9606,0,0.1449,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:348dee045739ad2f4097c999b8b4239b233fa8cae96df85829ddc363787b94ae
+size 117
