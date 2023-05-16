@@ -1,5 +1,16 @@
 # Continual Learning Research Repository
 
+## Sources
+https://www.youtube.com/watch?v=HCKi41BHDAk&ab_channel=ManikVarma <br>
+https://www.youtube.com/watch?v=eyVL8IuCMi4&list=PLm6QXeaB-XkBfM5RgQP6wCR7Jegdg51Px&ab_channel=ContinualAI <br>
+https://www.youtube.com/watch?v=k0kMx4BFLmI&ab_channel=2d3d.ai <br>
+https://colab.research.google.com/github/ContinualAI/colab/blob/master/notebooks/.ipynb_checkpoints/intro_to_continual_learning-checkpoint.ipynb#scrollTo=0UZ6FBuHdm7N <br>
+https://paperswithcode.com/task/continual-learning <br>
+http://proceedings.mlr.press/v22/zhou12b/zhou12b.pdf <br>
+https://avalanche.continualai.org/getting-started/learn-avalanche-in-5-minutes <br>
+https://arxiv.org/pdf/2204.08817.pdf <br>
+https://github.com/GMvandeVen/continual-learning <br>
+
 This repository is dedicated to researching Continual Learning scenarios and strategies using the CicIDS2017 dataset and the Avalanche Continual Learning library.
 
 ## Introduction
@@ -43,3 +54,5 @@ To use this repository, you will need to have Python 3 and the Avalanche Continu
 ## Conclusion
 
 This repository serves as a platform for research and exploration of Continual Learning scenarios and strategies using the CicID2017 dataset and the Avalanche Continual Learning library. We hope that this repository will be useful for researchers, practitioners, and students interested in Continual Learning
+
+
